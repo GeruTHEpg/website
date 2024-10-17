@@ -1,2 +1,2 @@
 # website
-website i made
+this is just my first website i made dont judge it
